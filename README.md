@@ -14,4 +14,4 @@ I'm an informatics student who wants to learn a lot about the world of technolog
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![feebrian's Stats](https://github-readme-stats.vercel.app/api?username=feebrian&theme=dark&show_icons=true&hide_border=false&count_private=true)
