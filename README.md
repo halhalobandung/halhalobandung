@@ -13,5 +13,5 @@ I'm an informatics student who wants to learn a lot about the world of technolog
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-## Stats
-![feebrian's Stats](https://github-readme-stats.vercel.app/api?username=halhalobandung&theme=dark&show_icons=true&hide_border=false&count_private=true)
+## Stats 📈
+![Anta Rizqi Maulana's Stats](https://github-readme-stats.vercel.app/api?username=halhalobandung&theme=dark&show_icons=true&hide_border=false&count_private=true)
