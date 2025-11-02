@@ -15,3 +15,4 @@ I'm an informatics student who wants to learn a lot about the world of technolog
 
 ## Stats 📈
 ![Anta Rizqi Maulana's Stats](https://github-readme-stats.vercel.app/api?username=halhalobandung&theme=dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=halhalobandung&theme=dark)](https://git.io/streak-stats)
